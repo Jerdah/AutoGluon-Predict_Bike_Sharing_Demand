@@ -42,7 +42,7 @@ I would spend more time in feature elimination or creating new features. Finding
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](https://github.com/Jerdah/AutoGluon-Predict_Bike_Sharing_Demand/blob/main/model_test_score.png)
 
 ## Summary
 In summary , this project highlighted the importance of EDA , feature engineering and hyperparameter tuning to achieve optimal results. 
