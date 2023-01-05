@@ -38,7 +38,7 @@ I would spend more time in feature elimination or creating new features. Finding
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](https://github.com/Jerdah/AutoGluon-Predict_Bike_Sharing_Demand/blob/main/model_train_score%20.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
